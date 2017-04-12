@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainActivity!</string>
+	<string name="app_name">移動警務通</string>
+	<string name="no_files">該目錄為空</string>
+	<string name="to_top">[返回根目錄]</string>
+
+
+
+
+	<string name="str_longitude">經度(Longitude)：</string>
+	<string name="str_latitude">緯度(Latitude)：</string>
+	<string name="str_button1">查詢</string>
+	<string name="str_button2">+</string>
+	<string name="str_button3">-</string>
+	
+	
+	<string name="str_err_address">地址不存在</string>
+	<string name="str_err_location">無法取得Location</string>
+	<string name="str_my_location">目前所在地址：</string>
+	<string name="str_default_address">故宮博物院</string>
+
+
+	<string-array name="faultRecords">
+		<item>超速</item>
+		<item>闖紅燈</item>
+		<item>違規停車</item>
+		<item>無照駕駛</item>
+	</string-array>
+</resources>
